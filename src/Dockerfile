@@ -4,6 +4,7 @@ RUN apk add --no-cache \
   bpftool \
   bpftrace \
   curl \
+  doggo \
   iftop \
   iperf3 \
   iproute2 \
